@@ -6,4 +6,5 @@ A concise, usable yaf project framework
 git clone ...
 ###### step2
 cd yaf-simple-project
+
 composer install
