@@ -1,0 +1,8 @@
+{
+  "require": {
+    "illuminate/database": "^6.1",
+    "doctrine/dbal": "^2.9",
+    "predis/predis": "^1.1",
+    "lcobucci/jwt": "^3.3"
+  }
+}
